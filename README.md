@@ -2,7 +2,7 @@
 
 ## Library Versions
 
-- **Python version**: 3.12.4 | packaged by conda-forge | (main, Jun 17 2024, 10:13:44) [Clang 16.0.6]
+- **Python version**: 3.12.4 
 - **Numpy version**: 1.26.4
 - **Pandas version**: 2.2.2
 - **Scikit-learn version**: 1.5.1
